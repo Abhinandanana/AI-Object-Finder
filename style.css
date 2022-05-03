@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to bottom, #acebda, #b6dfbb, #c6d1a2, #d5c193, #e0b090, #e3a58b, #e59a8a, #e68f8c, #e9857f, #eb7b71, #ec7062, #ec6653);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#start{
+margin-top: 30px;
+font-size: 20px;
+background-color: #acebda;
+}
